@@ -1,0 +1,24 @@
+/** view issues
+
+/** business logic issues
+
+/** technical logic issues
+create backup system
+create classes
+move logic to folders
+use synchronize func in getters/setters;
+move interfaces from WTD to crud
+simplify crud so it be really just simplest crud api
+complete adding ts to node js
+add documentation on features;
+
+/** Bugs issues
+
+/** final changes issues
+
+
+
+
+/** Misc
+mby fixes in nodemon will be required later
+

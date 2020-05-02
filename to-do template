@@ -11,6 +11,7 @@ move interfaces from WTD to crud
 simplify crud so it be really just simplest crud api
 complete adding ts to node js
 add documentation on features;
+rename DataStorage class to some factory-class and put it in correct folder;
 
 /** Bugs issues
 
